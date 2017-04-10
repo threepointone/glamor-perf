@@ -1,9 +1,3 @@
-blank
----
+made up perf scenario
 
-n/w - 500(waiting) + 150
-evaluate - 64
-compile - 17
-
-with tachyons 
----
+https://twitter.com/threepointone/status/851411971626987521
